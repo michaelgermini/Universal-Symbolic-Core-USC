@@ -33,6 +33,12 @@ Structure du dépôt
 - `content.ini` : version longue / historique du contenu (source initiale).
 - `livre chapitre.mak` : plan détaillé du livre (table des matières structurée).
 
+Licence
+-------
+
+- Ce projet est distribué sous la **licence Apache 2.0**.  
+- Voir le fichier `LICENSE` à la racine du dépôt pour les termes complets.
+
 Comment lire le livre
 ---------------------
 
