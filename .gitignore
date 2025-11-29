@@ -1,0 +1,27 @@
+# Generic OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python / virtualenv (au cas où)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node / JS (au cas où)
+node_modules/
+dist/
+build/
+
+# IDE / tooling
+.idea/
+.vscode/
+.history/
+
+# Logs / temp
+*.log
+*.tmp
+*.swp
+
+
