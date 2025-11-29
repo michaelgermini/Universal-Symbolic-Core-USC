@@ -107,9 +107,12 @@ Exemples, comparatifs & scénarios extrêmes
 - **Exemples d’encodage (hypothèse scientifique, mission drone, données médicales, logique)** :  
   - Annexe D — Exemples concrets d’encodage USC  
   - Chapitres 3, 8, 10–13 pour le contexte
-- **Comparatif USC vs Unicode / ASCII / UTF‑8** :  
-  - Annexe E — Comparatif USC vs Unicode vs ASCII vs UTF‑8  
+- **Comparatif USC vs Unicode / ASCII / UTF‑8** :
+  - Annexe E — Comparatif USC vs Unicode vs ASCII vs UTF‑8
   - Préface & Chapitre 1 (USC vs Unicode)
+- **Comparatif USC avec les systèmes existants (Morse, JSON, RDF, FOL, etc.)** :
+  - Annexe H — Comparatif USC avec les Systèmes Existants
+  - Chapitre 1 (positionnement de l'USC) & Chapitre 3 (objectifs)
 - **Transmission interstellaire & archivage long terme** :  
   - Annexe F — USC et transmission interstellaire  
   - Chapitre 3 (3.4 Archivage galactique / long terme)

@@ -64,8 +64,9 @@ USC-256 (Corps Universel Étendu)
    - [Annexe C](book/PartVI_AnnexeC_DiagrammesCompat.md) - Diagrammes de compatibilité
    - [Annexe D](book/PartVI_AnnexeD_ExemplesEncodage.md) - Exemples d'encodage
    - [Annexe E](book/PartVI_AnnexeE_ComparatifEncodages.md) - Comparatif encodings
-   - [Annexe F](book/PartVI_AnnexeF_TransmissionInterstellaire.md) - Transmission interstellaire
-   - [Annexe G](book/PartVI_AnnexeG_ImplRef.md) - Implémentation de référence
+- [Annexe F](book/PartVI_AnnexeF_TransmissionInterstellaire.md) - Transmission interstellaire
+- [Annexe G](book/PartVI_AnnexeG_ImplRef.md) - Implémentation de référence
+- [Annexe H](book/PartVI_AnnexeH_ComparatifSystemes.md) - Comparatif systèmes existants
 
 ### 📋 Documents de Référence
 - **[Index Thématique](book/Index_thematique.md)** - Navigation par concepts
